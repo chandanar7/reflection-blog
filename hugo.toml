@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/chandanar7/reflection-blog'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
