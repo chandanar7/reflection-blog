@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 14:20:15 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 01:52:26 +0530</lastBuildDate>
     <atom:link href="https://github.com/chandanar7/reflection-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 2</title>
+      <link>https://github.com/chandanar7/reflection-blog/posts/unit-2/</link>
+      <pubDate>Sun, 19 Apr 2026 01:52:26 +0530</pubDate>
+      <guid>https://github.com/chandanar7/reflection-blog/posts/unit-2/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;   My Experience with Understanding Information-&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Going into this lab, I honestly felt a mix of confusion and slight stress. The first task was installing tools like Hugo and Git, and I wasn’t completely confident about doing it on my own. Even though it was&#xA;supposed to be a simple setup, I kept second guessing whether I was doing things correctly.&#xA;At the same time, once I got through it (with a bit of help and checking),it honestly felt satisfying. It made me realize that sometimes the fear of starting is worse than the actual task.&#xA;When I started working with The Information: A History, a Theory, a Flood, I initially thought it would be just another reading task. But it turned out to be more thought provoking content than I expected.&#xA;What I found slightly difficult was focusing on what the author is saying instead of adding my own opinions. I’m used to reacting to what I read, so sticking to pure summarizing took alot of effort.&#xA;One thing that stayed with me was how information has evolved from simple communication to something that can actually be measured and analyzed. I had never really thought about information in that way before.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://github.com/chandanar7/reflection-blog/posts/my-first-post/</link>
