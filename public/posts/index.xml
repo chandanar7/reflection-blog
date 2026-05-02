@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 01:52:26 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:22:08 +0530</lastBuildDate>
     <atom:link href="https://github.com/chandanar7/reflection-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 3</title>
+      <link>https://github.com/chandanar7/reflection-blog/posts/unit-3/</link>
+      <pubDate>Fri, 01 May 2026 17:22:08 +0530</pubDate>
+      <guid>https://github.com/chandanar7/reflection-blog/posts/unit-3/</guid>
+      <description>&lt;p&gt;This unit was on reflecting on our failures. This lab for Unit 3 — Reflecting on Failure was different. Not just because we were writing about failure instead of trying to fix a broken pipeline or debug a&#xA;conflict but because for once failure wasn’t something to analyze and to work on rather than hiding the msitakes. It was the whole point.&#xA;Our group was Group 9, and we were assigned two things;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unit 2</title>
       <link>https://github.com/chandanar7/reflection-blog/posts/unit-2/</link>
